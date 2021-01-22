@@ -1,6 +1,10 @@
 theme: jekyll-theme-hacker
-title: Enam Biswas | github.io
+title: Enam Biswas | portfolio
 avatar: images/e-biswas.png
+description: This is my portfolio
+show_downloads: false
+google_analytics:
+
 
 footer-links:
   email: enam.biswas.ewubd@gmail.com
