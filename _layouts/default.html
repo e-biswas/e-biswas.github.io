@@ -18,7 +18,12 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+
+
+        <!-- 
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2> 
+        
 
         <section id="downloads">
           {% if site.show_downloads %}
@@ -27,7 +32,19 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
+        -->
       </div>
+
+      <nav>
+          <a href="{{ site.baseurl }}/blog"><b>Blog</b></a>
+          <a href="{{ site.baseurl }}/experience"><b>Experience</b></a>            
+          <a href="{{ site.baseurl }}/publications"><b>Publications</b></a>
+          <a href="{{ site.baseurl }}/projects"><b>Projects</b></a>
+          <a href="{{ site.baseurl }}/Rishabh_Misra_Resume_latest.pdf" target="_blank"><b>Resume</b></a>
+          <a href="{{ site.baseurl }}/about"><b>About Me</b></a>
+      </nav>
+
+
     </header>
 
     <div class="container">
