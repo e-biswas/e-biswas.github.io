@@ -22,11 +22,11 @@
 
 
       <nav class="container">
-        <a href="{{ site.github.repository_url }}/blogs"><span></span>Blog</a>
-        <a href="{{ site.github.repository_url }}/publications"><span></span>Publications</a>
-        <a href="{{ site.github.repository_url }}/projects"><span></span>Projects</a>
-        <a href="{{ site.github.repository_url }}/Enam_Biswas_CV.pdf" target="_blank"><span></span>Resume</a>
-        <a href="{{ site.github.repository_url }}/about"><span></span>About Me</a>
+        <a href="{{ site.github.repository_url }}/blogs">BLOG</a>
+        <a href="{{ site.github.repository_url }}/publications"><span></span>PUBLICATIONS</a>
+        <a href="{{ site.github.repository_url }}/projects"><span></span>PROJECTS</a>
+        <a href="{{ site.github.repository_url }}/Enam_Biswas_CV.pdf" target="_blank"><span></span>RESUME</a>
+        <a href="{{ site.github.repository_url }}/about"><span></span>ABOUT ME</a>
       </nav>
     </header>
 
@@ -35,6 +35,17 @@
         {{ content }}
       </section>
     </div>
+
+
+    <div class="container">
+        <footer class="footer">
+          {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}" target="_blank"><i class="svg-icon email"></i></a>{% endif %}
+          {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" target="_blank"><i class="svg-icon linkedin"></i></a>{% endif %}
+          {% if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}" target="_blank"><i class="svg-icon youtube"></i></a>{% endif %}
+        </footer>
+    </div>
+
+    <!--
 
     {% if site.google_analytics %}
       <script>
@@ -46,5 +57,9 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    -->
+
+
   </body>
 </html>
