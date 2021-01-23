@@ -11,9 +11,9 @@ permalink: /projects/
  * Currently no project to showcase.
    * Stay Tuned!
 
-<br/> 
-<br/> 
-<br/> 
+<br> 
+<br> 
+<br> 
 ---------------------------------------------------------------------------------------------------
 ### Datasets<a name="datasets"></a>
 
@@ -32,7 +32,7 @@ permalink: /projects/
     year={2021} 
     }
     ```
-<br/> 
+<br> 
 
 * [**IMDb Largest Review Dataset**](https://www.kaggle.com/ebiswas/imdb-review-dataset) \[**Released**: Jan 2021\]
 
