@@ -28,6 +28,7 @@
         <a href="{{ site.github.repository_url }}/Enam_Biswas_CV.pdf" target="_blank"><span></span>RESUME</a>
         <a href="{{ site.github.repository_url }}/about"><span></span>ABOUT ME</a>
       </nav>
+      
     </header>
 
     <div class="container">
@@ -36,12 +37,15 @@
       </section>
     </div>
 
-
-    <footer class="footer">
-      {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}" target="_blank"><i class="svg-icon email"></i></a>{% endif %}
-      {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" target="_blank"><i class="svg-icon linkedin"></i></a>{% endif %}
-      {% if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}" target="_blank"><i class="svg-icon youtube"></i></a>{% endif %}
-    </footer>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}" target="_blank"><i class="svg-icon email"></i></a>{% endif %}
+          {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" target="_blank"><i class="svg-icon linkedin"></i></a>{% endif %}
+          {% if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}" target="_blank"><i class="svg-icon youtube"></i></a>{% endif %}
+        </footer>
+      </div>
+    </div>
 
     <!--
 
