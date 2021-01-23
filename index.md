@@ -11,21 +11,15 @@ layout: default
 
 
 
-* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) 
-
-  - [**Bangla Largest Newspaper Dataset**](https://www.kaggle.com/ebiswas/bangla-largest-newspaper-dataset)
+* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) - [**Bangla Largest Newspaper Dataset**](https://www.kaggle.com/ebiswas/bangla-largest-newspaper-dataset)
   
   <br>
   
-* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) 
-
-  - [**Place Review Dataset - Niche (USA)**](https://www.kaggle.com/ebiswas/place-review-dataset-niche-usa) 
+* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) - [**Place Review Dataset - Niche (USA)**](https://www.kaggle.com/ebiswas/place-review-dataset-niche-usa) 
   
   <br>
   
-* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) 
-
-  - [**IMDb Largest Review Dataset**](https://www.kaggle.com/ebiswas/imdb-review-dataset)
+* [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) - [**IMDb Largest Review Dataset**](https://www.kaggle.com/ebiswas/imdb-review-dataset)
 
 <br>
 
@@ -56,14 +50,11 @@ layout: default
 
   <br>
   
-* [**Feb 2020**] [**ICTIS 2020**](https://ictis.in/home.php) [*Accepted*]
-  - **Privacy & Security Perspective on Social Media, Case - Facebook.**
+* [**Feb 2020**] [**ICTIS 2020**](https://ictis.in/home.php) [*Accepted*] - **Privacy & Security Perspective on Social Media, Case - Facebook.**
 
 <br>
 
 ---------------------------------------------------------------------------------------------------
 ### 2019
 
-* [**June 2019**] [**ICSCC-2019**](http://icscc.online/index.php)
-
-  - [Symptom-Based Disease Detection System In Bengali Using Convolution Neural Network](https://www.researchgate.net/publication/335935059_Symptom-Based_Disease_Detection_System_In_Bengali_Using_Convolution_Neural_Network)
+* [**June 2019**] [**ICSCC-2019**](http://icscc.online/index.php) - [Symptom-Based Disease Detection System In Bengali Using Convolution Neural Network](https://www.researchgate.net/publication/335935059_Symptom-Based_Disease_Detection_System_In_Bengali_Using_Convolution_Neural_Network)
