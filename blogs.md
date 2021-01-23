@@ -5,7 +5,7 @@ permalink: /blogs/
 
 ## ./ Blog Posts
 ---------------------------------------------------------------------------------------------------
-### Projects
+### Zero Post
 
 <br>
  * Currently no post to showcase.
