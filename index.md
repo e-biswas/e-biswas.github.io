@@ -21,6 +21,8 @@ layout: default
 
   - [**Place Review Dataset - Niche (USA)**](https://www.kaggle.com/ebiswas/place-review-dataset-niche-usa) 
   
+  <br>
+  
 * [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) 
 
   - [**IMDb Largest Review Dataset**](https://www.kaggle.com/ebiswas/imdb-review-dataset)
@@ -34,28 +36,38 @@ layout: default
 
   - [Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/PZL3PU3Z3ZUP)
 
+  <br>
+  
 * [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/statistics-with-python)
 
   - [Statistics with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/CQ6X73RP79MY)
 
+  <br>
+  
 * [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/deep-learning)
 
   - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/V3B45GN75NXW)
 
+  <br>
+  
 * [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python-3-programming)
 
   - [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/Y5RZ8AUJU58R)
 
+  <br>
+  
 * [**July 2020**] [**Coursera Course**](https://www.coursera.org/learn/matrix-algebra-engineers)
 
   - [Matrix Algebra for Engineers](https://www.coursera.org/account/accomplishments/certificate/H5Y6JSL9Q38Y)
 
-
+  <br>
+  
 * [**July 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python)
 
   - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/E9DABWDVM2JN)
 
-
+  <br>
+  
 * [**Feb 2020**] [**ICTIS 2020**](https://ictis.in/home.php) [*Accepted*]
   - **Privacy & Security Perspective on Social Media, Case - Facebook.**
 
