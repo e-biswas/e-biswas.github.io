@@ -5,4 +5,6 @@ permalink: /about/
 ## Enam Biswas
 ![Enam Biswas](images/enam-biswas.png)
 
-Some text about me!
+Ernest Becker - 
+> ‘To live is to engage in experience, at least partly on the terms of the experience itself.’
+
