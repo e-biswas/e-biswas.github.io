@@ -11,10 +11,9 @@ permalink: /projects/
  * Currently no project to showcase.
    * Stay Tuned!
 
-<br> </br>
-<br> </br>
-<br> </br>
-
+<br/> 
+<br/> 
+<br/> 
 ---------------------------------------------------------------------------------------------------
 ### Datasets<a name="datasets"></a>
 
@@ -33,6 +32,8 @@ permalink: /projects/
     year={2021} 
     }
     ```
+<br/> 
+
 * [**IMDb Largest Review Dataset**](https://www.kaggle.com/ebiswas/imdb-review-dataset) \[**Released**: Jan 2021\]
 
   * Reviews are a way to gain insight into a product/service. In machine learning tasks, text reviews play an important role in predicting/gaining insights. IMDb, one of the largest databases for films, tv-shows, and similar content, people provide their valuable opinion on them every year. These reviews eventually play a huge role in the viewer's community. However, these reviews can sometime contain spoilers, and the user also marks them considering their functionality. This is the largest IMDb dataset which contains more than 5.5M reviews/ 1.2M spoilers.
