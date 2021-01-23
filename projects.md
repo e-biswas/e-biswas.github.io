@@ -3,7 +3,7 @@ layout: default
 permalink: /projects/
 ---
 
-## Projects
+## ./ Projects
 ### [Projects](#projects) | [Datasets](#datasets)
 
 ### Projects<a name="projects"></a>
