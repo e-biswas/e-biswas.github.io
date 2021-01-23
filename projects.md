@@ -11,9 +11,6 @@ permalink: /projects/
  * Currently no project to showcase.
    * Stay Tuned!
 
-<br> 
-<br> 
-<br> 
 ---------------------------------------------------------------------------------------------------
 ### Datasets<a name="datasets"></a>
 
@@ -49,6 +46,8 @@ permalink: /projects/
     year={2021}
     }
     ```
+<br> 
+
 * [**Place Review Dataset - Niche (USA)**](https://www.kaggle.com/ebiswas/place-review-dataset-niche-usa) \[**Released**: Jan 2021\]
 
   * Reviews are a way to gain insight into a product/service. In machine learning tasks, text reviews play an important role in predicting/gaining insights. User-generated place reviews are extremely handy when it comes to choosing a neighborhood to live in. Niche has got a huge amount of review-rating for American neighborhood, which is perfect for several NLP tasks. It is contaning more than 700,000 reviews-rating.
