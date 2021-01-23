@@ -26,7 +26,7 @@ layout: default
 ---------------------------------------------------------------------------------------------------
 ### 2020
 
-* [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/natural-language-processing) - [Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/PZL3PU3Z3ZUP)
+* [**Dec 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/natural-language-processing) - [Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/PZL3PU3Z3ZUP)
 
   <br>
   
