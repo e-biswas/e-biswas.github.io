@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/png" href="/images/e-biswas.png" sizes="32x32" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-{% seo %}
-  </head>
+  
+  {% include head.html %}
 
   <body>
 
@@ -42,18 +34,6 @@
     {% include footer.html %}
 
     <!--
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}" target="_blank"><i class="svg-icon email"></i></a>{% endif %}
-          {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" target="_blank"><i class="svg-icon linkedin"></i></a>{% endif %}
-          {% if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}" target="_blank"><i class="svg-icon youtube"></i></a>{% endif %}
-        </footer>
-      </div>
-    </div>
-
-
 
     {% if site.google_analytics %}
       <script>
