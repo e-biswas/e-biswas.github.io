@@ -4,6 +4,7 @@ permalink: /projects/
 ---
 
 ## ./ Projects
+---------------------------------------------------------------------------------------------------
 ### [Projects](#projects) | [Datasets](#datasets)
 
 ### Projects<a name="projects"></a>
