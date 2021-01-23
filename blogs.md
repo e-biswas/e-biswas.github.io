@@ -9,4 +9,4 @@ permalink: /blogs/
 
 <br>
  * Currently no post to showcase.
-   * Stay Tuned!
+   - Stay Tuned!
