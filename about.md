@@ -24,3 +24,5 @@ During my leisure time, I find it relaxing scraping "websites" and generating da
 
 **Guy Beahm (aka - Dr Disrespect)** -
 > 'One step back, two steps forward. Let's climb the mountain. Let's dominate - violence, speed, and momentum. And, guess what? We are at the tipitty top of the mountain. But we are really only halfway up!'
+
+Although, 2020 was a hard year for everyone, I wishing everyone the best for the upcoming years. 
