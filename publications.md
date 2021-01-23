@@ -10,7 +10,6 @@ permalink: /publications/
 
 
 ### Research Papers<a name="papers"></a>
----------------------------------------------------------------------------------------------------
 
 * [**ICSCC-2019**](http://icscc.online/index.php)
 
