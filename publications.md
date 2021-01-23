@@ -20,6 +20,8 @@ permalink: /publications/
   - **Enam Biswas**, and Amit Kumar Das in Proceedings of 2019 7th International Conference on Smart Computing & Communications (ICSCC)
     * [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8843664) \| [ResearchGate](https://www.researchgate.net/publication/335935059_Symptom-Based_Disease_Detection_System_In_Bengali_Using_Convolution_Neural_Network)
 
+<br> 
+
 * [**ICTIS 2020**](https://ictis.in/home.php) [*Accepted*]
 
   * **Privacy & Security Perspective on Social Media, Case - Facebook**
