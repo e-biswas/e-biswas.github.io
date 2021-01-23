@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about me/
+permalink: /about/
 ---
 
 ![Enam Biswas](images/enam-biswas.png)
