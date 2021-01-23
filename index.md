@@ -32,39 +32,27 @@ layout: default
 ---------------------------------------------------------------------------------------------------
 ### 2020
 
-* [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/natural-language-processing)
-
-  - [Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/PZL3PU3Z3ZUP)
+* [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/natural-language-processing) - [Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/PZL3PU3Z3ZUP)
 
   <br>
   
-* [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/statistics-with-python)
-
-  - [Statistics with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/CQ6X73RP79MY)
+* [**Nov 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/statistics-with-python) - [Statistics with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/CQ6X73RP79MY)
 
   <br>
   
-* [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/deep-learning)
-
-  - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/V3B45GN75NXW)
+* [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/deep-learning) - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/V3B45GN75NXW)
 
   <br>
   
-* [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python-3-programming)
-
-  - [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/Y5RZ8AUJU58R)
+* [**Aug 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python-3-programming) - [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/Y5RZ8AUJU58R)
 
   <br>
   
-* [**July 2020**] [**Coursera Course**](https://www.coursera.org/learn/matrix-algebra-engineers)
-
-  - [Matrix Algebra for Engineers](https://www.coursera.org/account/accomplishments/certificate/H5Y6JSL9Q38Y)
+* [**July 2020**] [**Coursera Course**](https://www.coursera.org/learn/matrix-algebra-engineers) - [Matrix Algebra for Engineers](https://www.coursera.org/account/accomplishments/certificate/H5Y6JSL9Q38Y)
 
   <br>
   
-* [**July 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python)
-
-  - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/E9DABWDVM2JN)
+* [**July 2020**] [**Coursera Specialization**](https://www.coursera.org/specializations/python) - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/E9DABWDVM2JN)
 
   <br>
   
