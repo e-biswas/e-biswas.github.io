@@ -8,9 +8,8 @@ permalink: /projects/
 ### [Projects](#projects) | [Datasets](#datasets)
 ---------------------------------------------------------------------------------------------------
 ### Projects<a name="projects"></a>
-
-
-
+ * Currently no project to showcase.
+   * Stay Tuned!
 
 
 
