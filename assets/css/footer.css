@@ -29,4 +29,5 @@ footer {
 .nav-header:hover {
   border-radius: 10px;
   border: 2px solid #b5e853;
+  opacity: 0.7;
 }
