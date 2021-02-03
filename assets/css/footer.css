@@ -19,8 +19,13 @@ footer {
 }
 
 .nav-header {
-  display: block;
+  display: inline;
   text-align: center;
-  padding: 14px 16px;
+  padding: 3px 10px;
   text-decoration: none;
+}
+
+.nav-header:hover {
+  border-radius: 10px;
+  border: 2px solid #b5e853;
 }
