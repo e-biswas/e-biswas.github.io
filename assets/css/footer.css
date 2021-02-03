@@ -18,13 +18,9 @@ footer {
   padding: 20px 0;
 }
 
-li a .nav-header{
+a .nav-header{
   display: block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
 }
