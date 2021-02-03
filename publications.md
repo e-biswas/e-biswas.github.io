@@ -4,10 +4,9 @@ permalink: /publications/
 ---
 
 ## ./ Publications
----------------------------------------------------------------------------------------------------
+---
 ### [Research Papers](#papers) | [Datasets](https://e-biswas.github.io/projects#datasets)
----------------------------------------------------------------------------------------------------
-
+---
 
 ### Research Papers<a name="papers"></a>
 
