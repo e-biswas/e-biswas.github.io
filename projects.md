@@ -4,9 +4,9 @@ permalink: /projects/
 ---
 
 ## ./ Projects
----------------------------------------------------------------------------------------------------
+---
 ### [Projects](#projects) | [Datasets](#datasets)
----------------------------------------------------------------------------------------------------
+---
 ### Projects<a name="projects"></a>
  * Currently no project to showcase.
    * Stay Tuned!
@@ -21,7 +21,7 @@ permalink: /projects/
 <br>
 
 
----------------------------------------------------------------------------------------------------
+---
 ### Datasets<a name="datasets"></a>
 
 * [**Bangla Largest Newspaper Dataset**](https://www.kaggle.com/ebiswas/bangla-largest-newspaper-dataset) \[**Released**: Jan 2021\]
