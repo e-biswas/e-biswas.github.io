@@ -8,10 +8,17 @@ layout: default
 
 <br>
 
+* [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/specializations/tensorflow-advanced-techniques) - [DeepLearning.AI TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/certificate/8XRMDRE4BABG)
 
+* [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) - [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/3QW9EE8E8N5A)
 
+* [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/specializations/generative-adversarial-networks-gans) - [Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/specialization/certificate/2VPV55WV7HVN)
 
+* [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/specializations/mathematics-machine-learning) - [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/FGUBHKU46265)
 
+* [**Feb 2021**] [**Coursera Course**](https://www.coursera.org/learn/machine-learning) - [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/7X9PNCXMTL3X)
+
+<br>
 
 * [**Jan 2021**] [**Dataset**](https://e-biswas.github.io/projects/#datasets) - [**Bangla Largest Newspaper Dataset**](https://www.kaggle.com/ebiswas/bangla-largest-newspaper-dataset)
   
