@@ -8,6 +8,21 @@ layout: default
 
 <br>
 
+* [**Nov 2021**] Started working as Student Assistant (HiWi) at [ZeMA](https://zema.de/). Team - Machine Learning and Mechatronics. 
+
+* [**Nov 2021**] Started working as Student Assistant (HiWi) at [DFKI](https://www.dfki.de/en/web), [UMTL](https://www.dfki.de/en/web). Team - Machline Learning in Health / Smart Home. 
+
+<br>
+
+* [**Jul 2021**] Moved to [Saarbrücken, Germany](https://www.saarbruecken.de/en).
+
+<br>
+
+* [**Apr 2021**] Started Master's degree in Data Science and Artificial Intelligence at [Saarland University](https://www.uni-saarland.de/en/home.html).
+
+<br>
+
+
 * [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/specializations/tensorflow-advanced-techniques) - [DeepLearning.AI TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/certificate/8XRMDRE4BABG)
 
 * [**Mar 2021**] [**Coursera Specialization**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) - [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/3QW9EE8E8N5A)
