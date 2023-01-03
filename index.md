@@ -4,13 +4,20 @@ layout: default
 
 ## ./ Timeline
 ---
+### 2022
+
+<br>
+
+* [**Aug 2022**] Left job as a Student Assistant (HiWi) at [ZeMA](https://zema.de/). Team - Machine Learning and Mechatronics. 
+
+---
 ### 2021
 
 <br>
 
 * [**Nov 2021**] Started working as Student Assistant (HiWi) at [ZeMA](https://zema.de/). Team - Machine Learning and Mechatronics. 
 
-* [**Nov 2021**] Started working as Student Assistant (HiWi) at [DFKI](https://www.dfki.de/en/web), [UMTL](https://www.dfki.de/en/web). Team - Machline Learning in Health / Smart Home. 
+* [**Nov 2021**] Started working as Student Assistant (HiWi) at [DFKI](https://www.dfki.de/en/web), [COS](https://www.dfki.de/en/web). Team - Machline Learning in Health / Smart Home. 
 
 <br>
 
