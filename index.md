@@ -4,6 +4,13 @@ layout: default
 
 ## ./ Timeline
 ---
+### 2023
+
+<br>
+
+* [**Aug 2023**] Started job as a Student Assistant (HiWi) at [CISPA](https://cispa.de/en). Team - Empirical Research Support (ERS).
+  
+---
 ### 2022
 
 <br>
