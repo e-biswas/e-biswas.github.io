@@ -4,4 +4,4 @@ permalink: /about/
 ---
 ## ./Survey Winners
 
-> More infromation will be provided soon!
+> More information will be provided soon!
