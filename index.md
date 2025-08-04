@@ -24,7 +24,7 @@ layout: default
 
 <br>
 
-* [**Jul 2024**] **Winner** - Intra-university University Hackathon (at UdS) | Awarding institution: [MONA AI](https://www.mona-ai.de/)
+* [**Jul 2024**] **Winner** - Intra-university University Hackathon (at UdS); Awarding institution: [MONA AI](https://www.mona-ai.de/)
   
 ---
 ### 2023
