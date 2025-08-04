@@ -178,7 +178,3 @@ The `VAIAgent` is the main entry point for running the agent. It is highly confi
 -   **Reflection LLM**: A "supervisor" LLM. It validates the Primary LLM's proposed tool calls against the tool's schema and a set of operational guidelines. It can also be used to assess the quality of the final textual response before it's sent to the user. This crucial step reduces hallucinations and improves the agent's reliability.
 -   **State Management**: The entire workflow is stateful, managed within a `AgentState` object. This object tracks messages, tool calls, and reflection history, and can be serialized to persist conversations.
 -   **Tool Execution**: When a tool call is validated, the system sends a standard HTTP request to the endpoint defined in the tool's JSON file, automatically handling the specified authentication.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
