@@ -8,9 +8,16 @@ layout: default
 
 <br>
 
-* [**July 2025**] [**Vertical AI Agent**](/vertical-ai-agent/) Python Library - A Reflective LLM Workflow for AI Tool Integration
+> Open to work!
 
-* [**July 2025**] [**Pine Memory**](https://github.com/e-biswas/pine_memory) – Simplified AI Memory Management for Python (A `mem0` wrapper!)
+<br>
+
+* [**Aug 2025**] Left job at [MONA AI](https://www.mona-ai.de/).
+* [**Jul 2025**] [**Pine Memory**](https://github.com/e-biswas/pine_memory) – Simplified AI Memory Management for Python (A `mem0` wrapper!)
+
+<br>
+
+* [**Jan 2025**] Started working on my dream project: [**Vertical AI Agent**](/vertical-ai-agent/) Python Library - A Reflective LLM Workflow for AI Tool Integration
 
 ---
 ### 2024
