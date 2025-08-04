@@ -4,11 +4,35 @@ layout: default
 
 ## ./ Timeline
 ---
+### 2025
+
+<br>
+
+* [**July 2025**] [**Pine Memory**](https://github.com/e-biswas/pine_memory) – Simplified AI Memory Management for Python (A `mem0` wraopper!)
+
+---
+### 2024
+
+<br>
+
+* [**Dec 2024**] Defended masters thesis - Leveraging Contextual Information for Spoiler Detection in Movie Reviews. [Read here!](https://github.com/e-biswas/masters_thesis)
+
+<br>
+
+* [**Sep 2024**] Started full-time position at [MONA AI](https://www.mona-ai.de/), as AI/ML Software Developer.
+* [**Aug 2024**] Left job as a Student Assistant (HiWi) at [CISPA](https://cispa.de/en). Team - Empirical Research Support (ERS).
+
+<br>
+
+* [**Jul 2024**] **Winner** - Intra-university University Hackathon (at UdS) | Awarding institution: [MONA AI](https://www.mona-ai.de/)
+  
+---
 ### 2023
 
 <br>
 
 * [**Aug 2023**] Started job as a Student Assistant (HiWi) at [CISPA](https://cispa.de/en). Team - Empirical Research Support (ERS).
+* [**Jul 2023**] Winner - Twitter sentiment challenge (ML23). [Read Here](https://github.com/e-biswas/twitter_sentiment_ML23)
   
 ---
 ### 2022
@@ -86,3 +110,31 @@ layout: default
 <br>
 
 * [**June 2019**] [**ICSCC-2019**](http://icscc.online/index.php) - [Symptom-Based Disease Detection System In Bengali Using Convolution Neural Network](https://www.researchgate.net/publication/335935059_Symptom-Based_Disease_Detection_System_In_Bengali_Using_Convolution_Neural_Network)
+
+---
+### 2018
+
+<br>
+
+* [**Apr 2018**] **Award** - Dean list.
+
+---
+### 2017
+
+<br>
+
+* [**Apr 2017**] **Award** - Dean list.
+
+---
+### 2016
+
+<br>
+
+* [**Apr 2016**] **Award** - Dean list.
+
+---
+### 2015
+
+<br>
+
+* [**Apr 2015**] **Full Free Scholarship** - started bachelor of Computer Science & Engineering at [East West University](https://www.ewubd.edu/).
