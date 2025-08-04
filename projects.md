@@ -10,7 +10,7 @@ permalink: /projects/
 
 ### Projects<a name="projects"></a>
 
- * **Vertical AI Agent | Python Library** [ 01/2025 – Current ]
+ * [**Vertical AI Agent; Python Library**](/vertical-ai-agent/) [ 01/2025 – Current ]
   * A Reflective LLM Workflow for AI Tool Integration.
   * Designed a dual-LLM "reflective workflow" (primary + validator LLM) to reduce hallucinations and improve tool-calling accuracy.
   * Built a dynamic tool marketplace skeleton: Load APIs as LLM-compatible tools via JSON schemas, enabling seamless integration for small businesses.
@@ -19,11 +19,11 @@ permalink: /projects/
     * Mock tool server for local testing with simulated auth.
     * Multi-LLM support (OpenAI, Anthropic, Gemini).
   * Vision: Empower businesses to publish APIs as LLM tools and access pre-built AI services via a unified marketplace.
-  * Note: Currently in private repo and under continuous development. Feel free to ask for access at [enam.biswas.ewubd@gmail.com](mailto:enam.biswas.ewubd@gmail.com)!
+  > Note: Currently in private repo and under continuous development. Feel free to ask for access at [enam.biswas.ewubd@gmail.com](mailto:enam.biswas.ewubd@gmail.com)!
 
 <br>
 
-* [**Pine Memory – Simplified AI Memory Management for Python**](https://github.com/e-biswas/pine_memory) [ 2025 ]
+* [**Pine Memory – Simplified AI Memory Management for Python**](https://github.com/e-biswas/pine_memory) [ July 2025 ]
   * A lightweight Python wrapper for mem0 with sync/async support, built-in validation, and easy configuration. Streamline AI memory operations (add/search) with OpenAI, Gemini, and Pinecone integration. Perfect for multi-tenant apps.
 
 

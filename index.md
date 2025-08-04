@@ -8,6 +8,8 @@ layout: default
 
 <br>
 
+* [**July 2025**] [**Vertical AI Agent**](/vertical-ai-agent/) | Python Library - A Reflective LLM Workflow for AI Tool Integration
+
 * [**July 2025**] [**Pine Memory**](https://github.com/e-biswas/pine_memory) – Simplified AI Memory Management for Python (A `mem0` wrapper!)
 
 ---
