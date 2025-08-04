@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-> Open to work! (Earliest joining date - 01 September, 2025)
+> Open to work! (Earliest start date: September 1, 2025)
 
 <br>
 
