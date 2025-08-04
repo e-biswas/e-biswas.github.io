@@ -10,7 +10,7 @@ permalink: /projects/
 
 ### Projects<a name="projects"></a>
 
- * [**Vertical AI Agent; Python Library**](/vertical-ai-agent/) [ 01/2025 – Current ]
+* [**Vertical AI Agent; Python Library**](/vertical-ai-agent/) [ 01/2025 – Current ]
   - A Reflective LLM Workflow for AI Tool Integration.
   - Designed a dual-LLM "reflective workflow" (primary + validator LLM) to reduce hallucinations and improve tool-calling accuracy.
   - Built a dynamic tool marketplace skeleton: Load APIs as LLM-compatible tools via JSON schemas, enabling seamless integration for small businesses.
