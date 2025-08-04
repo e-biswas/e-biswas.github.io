@@ -32,7 +32,7 @@ layout: default
 <br>
 
 * [**Aug 2023**] Started job as a Student Assistant (HiWi) at [CISPA](https://cispa.de/en). Team - Empirical Research Support (ERS).
-* [**Jul 2023**] Winner - Twitter sentiment challenge (ML23). [Read Here](https://github.com/e-biswas/twitter_sentiment_ML23)
+* [**Jul 2023**] Winner - Twitter sentiment challenge (ML23). [Read here!](https://github.com/e-biswas/twitter_sentiment_ML23)
   
 ---
 ### 2022
